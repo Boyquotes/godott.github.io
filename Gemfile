@@ -9,7 +9,7 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar', '>= 6.0.0'
+    gem 'jekyll-scholar', '>= 7.1.3'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
